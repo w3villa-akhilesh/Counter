@@ -1,4 +1,4 @@
-const target = new Date("2025-04-17T00:00:00").getTime();
+const target = new Date("2025-05-17T00:00:00").getTime();
 
 function updateCounter()
 {
